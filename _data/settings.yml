@@ -7,26 +7,27 @@
 google-ID: 
 
 menu:
-- {name: 'About', path: 'menu', url: 'about.html'}
-- {name: 'Writing', path: 'menu', url: 'writing.html'}
-- {name: 'Contact', path: 'menu', url: 'contact.html'}
+- {name: 'Rólam', path: 'menu', url: 'about.html'}
+- {name: 'Írás', path: 'menu', url: 'writing.html'}
+- {name: 'Kapcsolat', path: 'menu', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 # - {icon: 'github', link: 'https://www.github.com/lenpaul'}
 # - {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/aronpeter/'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/aronpeterkovacs/'}
 - {icon: 'envelope', link: 'mailto:aron.peter.kovacs@gmail.com'}
+- {icon: 'facebook', link: 'http://www.facebook.com/aron.kovacs.560/'}
 - {icon: 'rss-square', link: '/feed.xml'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'Újabb'
+  previous_page: 'Régebbi'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Oszd meg és uralkodj!'
 
-related_posts: 'You may also enjoy:'
+related_posts: 'Talán ezt is élveznéd:'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Ekkor írtam'
