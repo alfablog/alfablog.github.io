@@ -1,18 +1,16 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Üdvözöllek az Alpha Állapotban!
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+### Az Alpha a Kezdet
 
-### Getting Started
+Az alpha a görög abc első betűje, de megannyi jelentése lehet. Először is ami nekünk fontos ezek közül a jelentések közül az az a *kezdet*. Itt kezdődik ugyanis az a személyes út, ahol felteszem a számomra fontos *kérdesek* -et és megpróbálom megválaszolni őket. Ez nem mindig olyan egyszerű, mint aminek első ránézésre tűnik... Ezek a kérdések eddig jellemzően a *business* területén merültek fel, így marketing, leadership és management terén - csak hogy egy párat említsek - de igazán nem zárkózok el más kérdésektől sem és így az sem meglepő, ha egynémely kérdés inkább a filozófia, az etika vagy a személyes kapcsolatok terére fog vezetni. Végeredményben a célom, hogy választ kapjak, de azt remélem a kapott válasz talán valakinek, valamikor, valahol segíteni fog a saját keresésében is. Talán pont Te leszel az.
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+### Az Alpha egy Tudatállapot
 
-### Example Content
+Az alpha továbbá egy a tudatállapotok közül. Az 
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+### Legyél Te is Alpha
 
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+Örülök ha velem tartasz ebben a felfedezésben és az a hiú reményem, hogy ha keresel valamit haza is fogsz vinni innen. De ne feledd, a legfontosabb, hogy Te is feltedd a saját kérdéseidet!
