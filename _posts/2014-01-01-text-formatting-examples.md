@@ -4,7 +4,7 @@ title: "Text Formatting Examples"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
-image: cards.jpg
+image: "Névtelen terv (27).png"
 ---
 
 # Markdown Support
