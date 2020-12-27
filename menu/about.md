@@ -4,6 +4,8 @@ title: Üdvözöllek az Alfában!
 image: "the green pill.png"
 ---
 
+![The green pill](<https://github.com/alfablog/alfablog.github.io/blob/gh-pages/assets/img/the%20green%20pill.png> "the green pill.png")
+
 ### Az Alfa a Kezdet
 
 Az "alfa" a görög abc első betűje. A szó mögöttes jelentéstartalma azonban egészer sokrétű. Először is jelentheti azt, hogy **kezdet**. 
