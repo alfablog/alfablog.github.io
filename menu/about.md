@@ -3,7 +3,7 @@ layout: page
 title: Üdvözöllek az Alfában!
 ---
 
-`![the green pill](https://github.com/alfablog/alfablog.github.io/blob/gh-pages/assets/img/the%20green%20pill.png "the green pill")`
+![the green pill](https://github.com/alfablog/alfablog.github.io/blob/gh-pages/assets/img/the%20green%20pill.png "the green pill")
 
 ### Az Alfa a Kezdet
 
