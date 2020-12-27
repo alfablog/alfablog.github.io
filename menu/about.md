@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Üdvözöllek az Alpha Állapotban!
+title: Üdvözöllek az Alphában!
 ---
 
 ### Az Alpha a Kezdet
