@@ -3,6 +3,8 @@ layout: page
 title: Üdvözöllek az Alfában!
 ---
 
+`![the green pill](<Image url> "the green pill")`
+
 ![the green pill](the green pill.png)
 
 ### Az Alfa a Kezdet
