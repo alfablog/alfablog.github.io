@@ -7,7 +7,7 @@
 google-ID: 
 
 menu:
-- {name: 'Rólam', path: 'menu', url: 'about.html'}
+- {name: 'Alfa?', path: 'menu', url: 'about.html'}
 - {name: 'Írások', path: 'menu', url: 'writing.html'}
 - {name: 'Kapcsolat', path: 'menu', url: 'contact.html'}
 
