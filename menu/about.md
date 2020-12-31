@@ -15,7 +15,20 @@ A vég egyelőre egészen ismeretlen a lépések pedig fárasztóak, de az élve
 
 ### Az Alfa egy Tudatállapot
 
-Az alpha egy az tudatállapotok közül. Az 
+Az alpha egy az 5 legismertebb agyhullám közül. Brain wave frequencies are correlated with various states of consciousness or arousal. 1
+
+> *"Brain waves are oscillating electrical voltages in the brain measuring just a few  millionths of a volt."* [ScienceDirect](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/brain-waves)
+
+Frequency band        | Frequency             | Brain states          
+--------------------- | --------------------- | --------------------- 
+Gamma (γ)             | >35 Hz                | Concentration     
+Beta (β)              | 12–35 Hz              | Anxiety dominant, active, external attention, relaxed 
+**Alpha (α)           | 8–12 Hz               | Very relaxed, passive attention**
+Theta (θ)             | 4–8 Hz                | Deeply relaxed, inward focused
+Delta (δ)             | 0.5–4 Hz              | Sleep
+
+"Alpha brain waves may be considered a bridge from the external world to the internal world, and vice versa." 1
+
 
 ### Legyél Te is Alfa
 
