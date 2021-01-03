@@ -15,9 +15,7 @@ A vég egyelőre egészen ismeretlen a lépések pedig fárasztóak, de az élve
 
 ### Az Alfa egy Tudatállapot
 
-Az alpha egy az 5 legismertebb agyhullám közül. Brain wave frequencies are correlated with various states of consciousness or arousal. 1
-
-> *"Brain waves are oscillating electrical voltages in the brain measuring just a few  millionths of a volt."* [ScienceDirect](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/brain-waves)
+Az alfa egy az 5 legismertebb agyhullám közül. 
 
 Frequency band        | Frequency             | Brain states          
 --------------------- | --------------------- | --------------------- 
@@ -27,9 +25,23 @@ Beta (β)              | 12–35 Hz              | Anxiety dominant, active, ex
 Theta (θ)             | 4–8 Hz                | Deeply relaxed, inward focused
 Delta (δ)             | 0.5–4 Hz              | Sleep
 
+Az agyhullámok kiválóan mutatják az agy elektromos aktivitását. Az agyhullámok fokmérője a frekvencia és az adott frekvencia alapján meg lehet állapítani, hogy épp milyen tudatállapotban vagy. *És hogy az agyhullám miért okoz tudatállapotot?* Azért, mert az agyhullámaid megmutatják, hogy épp milyen *"hangulatban"* van az agyad. A hullámok mintázata ezalapján különböző tudatállapotoknál más és más. 1 2
+
+![alfa agyhullám](https://alfablog.github.io/assets/img/alfa agyhullám.png)
+
+
+
+
+
+Milyen az alpha agyhullám? 
 "Alpha brain waves may be considered a bridge from the external world to the internal world, and vice versa." 1
 
 
 ### Legyél Te is Alfa
 
 Örülök ha velem tartasz ebben a felfedezésben és az a hiú reményem, hogy ha keresel valamit akkor fogsz is hazavinni innen. De ne feledd, a legfontosabb, hogy Te is feltedd a saját kérdéseidet!
+
+---
+
+1. *"Agyhullámok"* [@ScienceDirect](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/brain-waves)
+2. *Az agyhullámok csodálatos világa* [@Tudatosagy.hu](https://www.tudatosagy.hu/az-agyhullamok-csodas-vilaga/)
