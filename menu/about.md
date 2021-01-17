@@ -37,7 +37,7 @@ Azért, mert az alfa tudatállapot egyfajta hídnak is tekinthető a külső és
 
 
 ### Az Alfa Egy Út 
-Örülök ha megtisztelsz ebben a közös felfedezésben 🌌 :eyes: és az az erős meggyőződésem, hogy ha keresel valamit és nyitott vagy akkor találni is fogsz (bár talán nem pont azt amire számítasz ;) ). 🍋
+Örülök ha megtisztelsz ebben a közös felfedezésben 🌌 és az az erős meggyőződésem, hogy ha keresel valamit és nyitott vagy akkor találni is fogsz (bár talán nem pont azt amire számítasz ;) ). 🍋
 
 [^1]: *"Az agyhullámok csodálatos világa"* [@Tudatosagy.hu](https://www.tudatosagy.hu/az-agyhullamok-csodas-vilaga/)
 [^2]: *"Agyhullámok"* [@ScienceDirect](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/brain-waves)
