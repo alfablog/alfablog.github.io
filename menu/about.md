@@ -5,43 +5,39 @@ title: Üdvözöllek Alfában!
 
 ![the green pill](https://alfablog.github.io/assets/img/the-green-pill.png)
 
-### Az Alfa a Kezdet
+## Az Alfa Az Első Lépés...
 
-Az "alfa" a görög abc első betűje. A szó mögöttes jelentéstartalma azonban egészer sokrétű. Először is jelentheti azt, hogy **kezdet**. 
+*...az első szó amit leírsz.* ✒️ 
+
+Az "alfa" a görög abc első betűje. A szó először is jelentheti azt, hogy *kezdet*. 
 
 > *"Én vagyok az Alfa és az Omega, az első és az utolsó, a kezdet és vég.”* Jel 22,13. 
 
-A vég egyelőre egészen ismeretlen a lépések pedig fárasztóak, de az élvezet nem marad el. Itt kezdődik ugyanis az a személyes út, ahol felteszem a számomra fontos *kérdesek* -et és megpróbálom megválaszolni őket. Ez nem mindig olyan egyszerű, mint amilyennek első ránézésre tűnik... Ezek a kérdések eddig jellemzően *business* szagúak voltak, így marketing, leadership és management területére kalauzoltak - csak hogy egy párat említsek - de igazán nem zárkózok el más kérdésektől sem és így az sem meglepő, ha egynémely kérdés inkább a filozófia, az etika vagy a személyes kapcsolatok mezejére fog vezetni. Végeredményben a célom, hogy választ kapjak, de azt remélem a kapott válasz talán valakinek, valamikor, valahol segíteni fog a saját keresésében is. Talán pont Te leszel az akinek segíteni fog.
+Hiszen a vég egyelőre ismeretlen, a lépések pedig hosszúra nyúlnak, de az igazi élmény ott lapul az úton. ↩️ Itt kezdődik az a tapasztalás, ahol felteszem a fontos *kérdeseket*, ❓ azokat a talányokat amik igazán mozgatnak. Kérdéseket az élet számtalan területéről: a business-ről, marketing-ről vagy leadership-ről. Filozófiai kérdéseket, etikai kérdéseket és menedzsment kérdéseket. Kérdéseket a személyes kapcsolatokról, a társadalomról vagy akár a pénzről. Kérdéseket amelyekre választ keresek és ezt az élményt szeretném megosztani Veled is ❗
 
-### Az Alfa egy Tudatállapot
+## Az Alfa Nyitottság
 
-Az alfa egy az 5 legismertebb agyhullám közül. 
+Az alfa egyike az 5 legismertebb agyhullámnak. 
 
-Frequency band        | Frequency             | Brain states          
+Agyhullám        | Frekvencia             | Tudatállapotok          
 --------------------- | --------------------- | --------------------- 
-Gamma (γ)             | >35 Hz                | Concentration     
-Beta (β)              | 12–35 Hz              | Anxiety dominant, active, external attention, relaxed 
-**Alpha (α)           | 8–12 Hz               | Very relaxed, passive attention**
-Theta (θ)             | 4–8 Hz                | Deeply relaxed, inward focused
-Delta (δ)             | 0.5–4 Hz              | Sleep
+Gamma (γ)             | >35 Hz                | Koncentráció     
+Béta (β)              | 12–35 Hz              | Szorongás, aktivitás, külső fókusz, nyugodtság 
+Alfa (α)           | 8–12 Hz               | Nagy nyugodtság, passzív figyelem, alvás és ébrenlét között
+Téta (θ)             | 4–8 Hz                | Elképesztő nyugodtság, befelé fordulás
+Delta (δ)             | 0.5–4 Hz              | Egetrengető nyugodtság, UFO-k, Ken Wilber (de néha közönséges földi halandók is megközelítik ha mély álomtalan álomban vannak)
 
-Az agyhullámok kiválóan mutatják az agy elektromos aktivitását. Az agyhullámok fokmérője a frekvencia és az adott frekvencia alapján meg lehet állapítani, hogy épp milyen tudatállapotban vagy. *És hogy az agyhullám miért okoz tudatállapotot?* Azért, mert az agyhullámaid megmutatják, hogy épp milyen *"hangulatban"* van az agyad. A hullámok mintázata ezalapján különböző tudatállapotoknál más és más. 1 2
+Az agyhullámok kiválóan mutatják az agy elektromos aktivitását. ⚡ A hullám frekvenciája alapján meg lehet állapítani, hogy épp milyen az uralkodó tudatállapot. A különböző hullámok frekvenciája más és más mintázatokat rajzolnak. [^1]
 
-![alfa agyhullám](https://alfablog.github.io/assets/img/alfa agyhullám.png)
+![agyhullámok](https://alfablog.github.io/assets/img/agyhullámok.jpg)
 
+*És hogy miért éppen 👉 Alfa tudatállapot 👈 ?*
 
-
-
-
-Milyen az alpha agyhullám? 
-"Alpha brain waves may be considered a bridge from the external world to the internal world, and vice versa." 1
+Azért, mert az alfa tudatállapot egyfajta hídnak is tekinthető a külső és a belső világ között. [^2] Meditációban nem véletlen az, hogy a gyakorló valami nagyon légiesre koncentrál, jellemzően a légzésére. A légzés itt nem más, mint a kapocs kint és bent között. Egyszerre tartozik a világhoz és saját magadhoz. Így a fókuszt a légzésre helyezve a gyakorló képes egyensúlyt létrehozni az anyag, a matéria és a szellem, a belső világ között. Pontosan ez az az a törékeny egyensúly amelynek segítségével a létezés elkezd megváltozni. Ugyanaz minden alkalommal, mégis egy kicsit mindig más. Az alfa tudatállapot az a nyitottság, amivel egyensúlyba kerülhetsz.
 
 
-### Legyél Te is Alfa
+### Az Alfa Egy Út 
+Örülök ha megtisztelsz ebben a közös felfedezésben 🌌 :eyes: és az az erős meggyőződésem, hogy ha keresel valamit és nyitott vagy akkor találni is fogsz (bár talán nem pont azt amire számítasz ;) ). 🍋
 
-Örülök ha velem tartasz ebben a felfedezésben és az a hiú reményem, hogy ha keresel valamit akkor fogsz is hazavinni innen. De ne feledd, a legfontosabb, hogy Te is feltedd a saját kérdéseidet!
-
----
-
-1. *"Agyhullámok"* [@ScienceDirect](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/brain-waves)
-2. *Az agyhullámok csodálatos világa* [@Tudatosagy.hu](https://www.tudatosagy.hu/az-agyhullamok-csodas-vilaga/)
+[^1]: *"Az agyhullámok csodálatos világa"* [@Tudatosagy.hu](https://www.tudatosagy.hu/az-agyhullamok-csodas-vilaga/)
+[^2]: *"Agyhullámok"* [@ScienceDirect](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/brain-waves)
