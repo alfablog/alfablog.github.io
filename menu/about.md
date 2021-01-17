@@ -29,7 +29,7 @@ Delta (δ)             | 0.5–4 Hz              | Egetrengető nyugodtság, UFO
 
 Az agyhullámok kiválóan mutatják az agy elektromos aktivitását. ⚡ A hullám frekvenciája alapján meg lehet állapítani, hogy épp milyen az uralkodó tudatállapot. A különböző hullámok frekvenciája más és más mintázatokat rajzolnak. [^1]
 
-![Agyhullámok](https://alfablog.github.io/assets/img/Agyhullámok4.jpg)
+![Agyhullámok](https://alfablog.github.io/assets/img/Agyhullámok4.png)
 
 *És hogy miért éppen Alfa tudatállapot?* 
 
