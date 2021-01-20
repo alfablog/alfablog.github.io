@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Kapcsolat
 ---
 
 Ha bármilyen kérdésed adódna, esetleg észrevételed merült fel az oldallal kapcsolatban, vagy megosztanád velem az élményedet, akkor kapcsolódj bátran hozzám valamelyik social felületen vagy írj egy email-t. 
