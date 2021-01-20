@@ -3,4 +3,5 @@ layout: page
 title: Contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+Ha bármilyen kérdésed adódna, esetleg észrevételed merült fel az oldallal kapcsolatban, vagy megosztanád velem az élményedet, akkor kapcsolódj bátran hozzám valamelyik social felületen vagy írj egy email-t. 
+![Nyíl](https://alfablog.github.io/assets/img/Nyíl1.png)
