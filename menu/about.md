@@ -96,8 +96,8 @@ Végezetül tehát az Alfa egy kérdéssel kezdődik. Nyitottságot követel, Ta
 ---
 
 [^1]: *Alpha brain waves* [healthline.com](https://www.healthline.com/health/alpha-brain-waves)
-[^5]: Evans, J. R., Evans, J. R., &amp; Abarbanel, A. (1999). *Introduction to quantitative EEG and neurofeedback.* San Diego: Academic.
 [^2]: Moini, J., &amp; Piran, P. (2020). *Functional and clinical neuroanatomy: A guide for health care professionals.* London: Academic Press.
-[^6]: Lomas, T. Ivtzan, I. Fu, CH. (2015). *A systematic review of the neurophysiology of mindfulness on EEG oscillations*. Neuroscience & Biobehavioral Reviews. 57: 401–410. doi:10.1016/j.neubiorev.2015.09.018.
-[^4]: *8 steps to a world-class understanding of creativity (and how to hack it)* [stevenkotler.com](https://www.stevenkotler.com/rabbit-hole/8-steps-to-a-world-class-understanding-of-creativity)
 [^3]: *Go with the flow* [wired.com](https://www.wired.com/1996/09/czik/)
+[^4]: *8 steps to a world-class understanding of creativity (and how to hack it)* [stevenkotler.com](https://www.stevenkotler.com/rabbit-hole/8-steps-to-a-world-class-understanding-of-creativity)
+[^5]: Evans, J. R., Evans, J. R., &amp; Abarbanel, A. (1999). *Introduction to quantitative EEG and neurofeedback.* San Diego: Academic.
+[^6]: Lomas, T. Ivtzan, I. Fu, CH. (2015). *A systematic review of the neurophysiology of mindfulness on EEG oscillations*. Neuroscience & Biobehavioral Reviews. 57: 401–410. doi:10.1016/j.neubiorev.2015.09.018.
