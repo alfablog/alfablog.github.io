@@ -25,11 +25,11 @@ Sajnos nem lehet elmondani valójában mi is az az Alfa, de megpróbálhatom meg
 
 ![Morfeusz](https://alfablog.github.io/assets/img/Morfeusz2.png)
 
-Krisztus előtt körülbelül 800 évvel egy névtelen görög a porba írta a görög abc első betűjét, az alfát...
+Krisztus előtt körülbelül 800 évvel egy névtelen ember a porba írta a görög abc első betűjét, az alfát...
 
 > "Én vagyok az Alfa és az Omega, az első és az utolsó, a kezdet és vég.” Jel 22,13. 
 
-Talán mondhatnánk úgy is, hogy alfa az érzés amikor rájössz, hogy valami nem stimmel. Egy kérdés nem hagy nyugodni. Értelmezni szeretnéd a Téged körülvevő valóság egy darabkáját, de akárhogy próbálod, nem tudod magadtól megfogni a lényegét. A válasz mintha füst lenne, kifolyik a kezeid közül, pedig tudod hogy ott van... Érzed és magyarázatot keresel rá.
+Talán mondhatnánk úgy is, hogy Alfa az az érzés amikor rájössz, hogy valami nem stimmel. Egy kérdés nem hagy nyugodni. Értelmezni szeretnéd a Téged körülvevő valóság egy darabkáját, de akárhogy próbálod, nem tudod magadtól megfogni a lényegét. A válasz mintha füst lenne, kifolyik a kezeid közül, pedig tudod hogy ott van... Érzed és magyarázatot keresel rá.
 
 Alfában a tapasztalás egy *kérdéssel* kezdődik, egy kérdéssel amire választ keresel.
 
@@ -53,7 +53,7 @@ Alfa (α)           | 8–12 Hz               | Nagy nyugodtság, passzív figye
 Téta (θ)             | 4–8 Hz                | Elképesztő nyugodtság, befelé figyelés
 Delta (δ)             | 0.5–4 Hz              | Egetrengető nyugodtság, Ken Wilber, de közönséges földi halandók is megközelítik mély álomtalan álomban
 
-Az Alfa hullámok a spektrum közepén helyezkednek el a téta és a béta hullámok között. Az agyad akkor generálja ezeket a hullámokat, ha nem koncentrálsz túl erősen semmire. Az Alfa állapotot tehát a nyugalom és a passzív figyelem jellemzi. [^x]
+Az Alfa hullámok a spektrum közepén helyezkednek el a téta és a béta hullámok között. Az agyad akkor generálja ezeket a hullámokat, ha nem koncentrálsz túl erősen semmire. Az Alfa állapotot tehát a nyugalom és a passzív figyelem jellemzi. [^2]
 
 ## Az Alfa Tanulás
 
@@ -69,23 +69,23 @@ Azonban az igazság az, hogy a  csúcsteljesítmény állapota az Alfa állapoth
 
 Meséltem már Neked a flow-ról?
 
-"Egy tevékenységben teljesen elmerülni. Az ego eltűnik. Az idő elrepül. Minden cselekedet, mozdulat és gondolat elkerülhetetlenül következik az előzőből, mint ha jazz-t játszana az ember. Az egész lényed a tevékenység része lesz, és a készségeidből képessé válsz a lehető legtöbbet kihozni." [^e] Ezt mondta egy interjúban a flow élmény felfedezője Csíkszentmihályi Mihály. 
+"Egy tevékenységben teljesen elmerülni. Az ego eltűnik. Az idő elrepül. Minden cselekedet, mozdulat és gondolat elkerülhetetlenül következik az előzőből, mint ha jazz-t játszana az ember. Az egész lényed a tevékenység része lesz, és a készségeidből képessé válsz a lehető legtöbbet kihozni." [^3] Ezt mondta egy interjúban a flow élmény felfedezője Csíkszentmihályi Mihály. 
 
 És hogy hogyan is kapcsolódik a flow élmény az Alfához?
 
-Flow állapotában a normális agyműködésed egészen megváltozik. Ebben az állapotban az ébrenléti tudat gyorsan mozgó béta hullámaitól az alfa és a téta hullámok sokkal lassabb határáig tolódnak. [^a] Tehát az agyhullámaid lelassulnak, mégis ez a lassúság valami egészen elképesztő állapothoz vezet...
+Flow állapotában a normális agyműködésed egészen megváltozik. Ebben az állapotban az ébrenléti tudat gyorsan mozgó béta hullámaitól az alfa és a téta hullámok sokkal lassabb határáig tolódnak. [^4] Tehát az agyhullámaid lelassulnak, mégis ez a lassúság valami egészen elképesztő állapothoz vezet...
 
 Azonban a történetünk itt még nem ér véget! Szükségünk van arra, hogy még valamit az Alfához kapcsoljunk. A Nyitottságon és a Tanuláson kívül van még egy fontos kulcsszavunk... 
 
 ## Az Alfa Egyensúly 
 
-Az Alfa tudatállapot egyfajta hídnak is tekinthető a külső és a belső világ között. [^2] 
+Az Alfa tudatállapot egyfajta hídnak is tekinthető a külső és a belső világ között. [^5] 
 
 Alfában ugyanis nem "csak" a külső világhoz kapcsolódunk, mint jellemzően bétában vagy a "csak" a belső világhoz mint jellemzően tétában, hanem mind a két világhoz. Mintha egy lábbal kint és egy lábbal bent állnál...
 
 A meditáció gyakorlása során, a fókusz gyakran valami légiesre kerül, mint egy gyertya lángjára vagy éppen a légzésre. Az utóbbi példával élve a meditációnál a légzés nem más, mint kapocs a "kint" és a "bent" között. Egyszerre tartozik a "külső világhoz" és a testedhez. A tied, hiszen benned van és életet ad Neked, mégsem birtoklod. A légzés ugyanaz minden alkalommal, ezért megfelelő arra, hogy a laza fókuszunkat fent tartsuk, mégis egy kicsit mindig más, ezért elég változatos is ahhoz, hogy ne kalandozzunk el túlságosan. A fókuszt a légzésre helyezve a gyakorló képessé válik egyensúlyt teremteni a test és a szellem, a "belső világ" és a matéria között. 👐 
 
-> "A mindfullness meditáció növeli az alfa hullám erősségét egészséges alanyoknál és betegeknél egyaránt."[^z]
+> "A mindfullness meditáció növeli az alfa hullám erősségét egészséges alanyoknál és betegeknél egyaránt."[^6]
 
 Végezetül tehát az Alfa egy kérdéssel kezdődik. Nyitottságot követel, Tanulás az eredménye és Egyensúlyra törekszik. De talán ezt Te már mind tudod!  
 
@@ -96,13 +96,8 @@ Végezetül tehát az Alfa egy kérdéssel kezdődik. Nyitottságot követel, Ta
 ---
 
 [^1]: *Alpha brain waves* [healthline.com](https://www.healthline.com/health/alpha-brain-waves)
-[^2]: Evans, J. R., Evans, J. R., &amp; Abarbanel, A. (1999). *Introduction to quantitative EEG and neurofeedback.* San Diego: Academic.
-[^y]: Klimesch, W. (1997). *EEG-alpha rhythms and memory processes.* International Journal of Psychophysiology, 26(1-3), 319-340. doi:10.1016/s0167-8760(97)00773-3
-[^x]: Moini, J., &amp; Piran, P. (2020). *Functional and clinical neuroanatomy: A guide for health care professionals.* London: Academic Press.
-[^z]: Lomas, T. Ivtzan, I. Fu, CH. (2015). *A systematic review of the neurophysiology of mindfulness on EEG oscillations*. Neuroscience & Biobehavioral Reviews. 57: 401–410. doi:10.1016/j.neubiorev.2015.09.018.
-[^a]: *8 steps to a world-class understanding of creativity (and how to hack it)* [stevenkotler.com](https://www.stevenkotler.com/rabbit-hole/8-steps-to-a-world-class-understanding-of-creativity)
-[^b]: Young, J. A., & Pain, M. D. (1999). *The zone: Evidence of a universal phenomenon for athletes across sports.* Athletic Insight: the online journal of sport psychology, 1(3), 21-30.
-[^c]: Jackson, S. A. (1992). *Athletes in flow: A qualitative investigation of flow states in elite figure skaters.* Journal of applied sport psychology, 4(2), 161-180.
-[^d]: *Greek alphabet* [wikipedia.com](https://en.wikipedia.org/wiki/Greek_alphabet)
-[^e]: *Go with the flow* [wired.com](https://www.wired.com/1996/09/czik/)
-[^f]: *Create a Work Environment That Fosters Flow* [hbr.org](https://hbr.org/2014/05/create-a-work-environment-that-fosters-flow)
+[^5]: Evans, J. R., Evans, J. R., &amp; Abarbanel, A. (1999). *Introduction to quantitative EEG and neurofeedback.* San Diego: Academic.
+[^2]: Moini, J., &amp; Piran, P. (2020). *Functional and clinical neuroanatomy: A guide for health care professionals.* London: Academic Press.
+[^6]: Lomas, T. Ivtzan, I. Fu, CH. (2015). *A systematic review of the neurophysiology of mindfulness on EEG oscillations*. Neuroscience & Biobehavioral Reviews. 57: 401–410. doi:10.1016/j.neubiorev.2015.09.018.
+[^4]: *8 steps to a world-class understanding of creativity (and how to hack it)* [stevenkotler.com](https://www.stevenkotler.com/rabbit-hole/8-steps-to-a-world-class-understanding-of-creativity)
+[^3]: *Go with the flow* [wired.com](https://www.wired.com/1996/09/czik/)
