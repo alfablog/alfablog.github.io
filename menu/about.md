@@ -89,7 +89,7 @@ A meditáció gyakorlása során, a fókusz gyakran valami légiesre kerül, min
 
 Végezetül tehát az Alfa egy kérdéssel kezdődik. Nyitottságot követel, Tanulás az eredménye és Egyensúlyra törekszik. De talán ezt Te már mind tudod!  
 
-*Kopp-kopp*
+*"*Kopp-kopp*"*
 
 Örülök ha megtisztelsz ebben a közös felfedezésben és az az erős meggyőződésem, hogy ha keresel valamit 🐇 akkor találni is fogsz!
 
