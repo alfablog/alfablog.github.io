@@ -29,21 +29,21 @@ Krisztus előtt körülbelül 800 évvel egy névtelen ember a porba írta a gö
 
 > "Én vagyok az Alfa és az Omega, az első és az utolsó, a kezdet és vég.” Jel 22,13. 
 
-Talán mondhatnánk úgy is, hogy Alfa az az érzés amikor rájössz, hogy valami nem stimmel. Egy kérdés nem hagy nyugodni. Értelmezni szeretnéd a Téged körülvevő valóság egy darabkáját, de akárhogy próbálod, nem tudod magadtól megfogni a lényegét. A válasz mintha füst lenne, kifolyik a kezeid közül, pedig tudod hogy ott van... Érzed és magyarázatot keresel rá.
+Talán mondhatnánk úgy is, hogy Alfa az az érzés amikor rájössz, hogy valami nem stimmel. Egy kérdés nem hagy nyugodni. Értelmezni szeretnéd a Téged körülvevő valóság egy darabkáját, de akárhogy is próbálod, nem tudod megragadni a lényegét. A válasz mintha füst lenne, kifolyik a kezeid közül, pedig tudod hogy ott van... Érzed és magyarázatot akarsz rá.
 
 Alfában a tapasztalás egy *kérdéssel* kezdődik, egy kérdéssel amire választ keresel.
 
 ## Az Alfa Nyitottság
 
-Szükséged van rá ha már a kérdést feltetted (és a pirulát lenyelted), hogy nyitott légy a válaszra. Mert a válasz korántsem biztos, hogy oda fog vezetni ahova remélted... 😳🍋
+Szükséged van rá, ha már a kérdést feltetted (és a pirulát lenyelted), hogy nyitott légy a válaszra. Mert a válasz korántsem biztos, hogy oda fog vezetni ahova remélted... 😳🍋
 
 Az Alfa egyike az 5 legismertebb agyhullámnak. 
 
-Az agyad elektromos tevékenységek nyüzsgő központja. Ez annak a ténynek is köszönhető, hogy az agyad sejtjei - úgynevezett neuronok - elektromos energiát használnak a kommunikációhoz. ⚡ Amikor egy ilyen neuroncsoport elektromos jeleket küld egy másik neuroncsoportnak, akkor ezeket a jeleket agyhullámoknak hívjuk. Ez azért van, mert egy számítógép által generált elektroencefalogram (EEG) teszt - amely detektálja és méri az agyad elektromos aktivitását - valóban hullámokat rajzol. [^1] 👇
+Az agyad elektromos tevékenységek nyüzsgő központja. Ez annak a ténynek is köszönhető, hogy az agyad sejtjei - úgynevezett neuronok - elektromos energiát használnak a kommunikációhoz. ⚡ Amikor egy ilyen neuroncsoport elektromos jeleket küld egy másik neuroncsoportnak, akkor azt agyhullámoknak hívjuk. Ez azért van, mert egy számítógép által generált elektroencefalogram (EEG) teszt - amely detektálja és méri az agyad elektromos aktivitását - valóban hullámokat rajzol. [^1] 👇
 
 ![Agyhullámok](https://alfablog.github.io/assets/img/Agyhullámok4.png)
 
-Az agyhullámok a nagyon gyorstól a nagyon lassúig terjednek, frekvenciában mérjük őket, amelynek ciklus / másodperc, azaz hertz (Hz) a mértékegysége. Az adott hullám frekvenciája alapján következtetni lehet arra, hogy épp milyen az uralkodó tudatállapot. 👇
+Az agyhullámok a nagyon gyorstól (gamma) a nagyon lassúig (delta) terjednek. Frekvenciában mérjük őket, amelynek ciklus / másodperc, azaz hertz (Hz) a mértékegysége. Az adott hullám frekvenciája alapján következtetni lehet arra, hogy épp milyen az uralkodó tudatállapot. 👇
 
 Agyhullám        | Frekvencia             | Tudatállapot          
 --------------------- | --------------------- | --------------------- 
@@ -57,25 +57,27 @@ Az Alfa hullámok a spektrum közepén helyezkednek el a téta és a béta hull�
 
 ## Az Alfa Tanulás
 
-Az Alfa állapotról másképpen azt is mondhatnánk, hogy kaput nyit a tanuláshoz. 🤓
+Másképpen az Alfa állapotról azt is mondhatnánk, hogy kaput nyit a tanuláshoz. 🤓
 
 Az Alfa állapotban ugyanis pont elég laza és nyitott fókuszú vagy ahhoz, hogy a történéseket teljes valójukban be tudd fogadni. Alfában nem vagy se nem túl feszült, se nem túl fáradt. Az Alfa állapot éppen optimális ahhoz, hogy elmélyülj.
 
 Az ember, ugyan gondolhatná erre az állapotra azt hogy: 
 
-*Egy ilyen "szobahőmérsékletű" állapotban mégis hogyan lehetne eredményesen teljesíteni?!* 
+*Egy ilyen "szobahőmérsékletű" állapotban mégis hogyan lehetne eredményesen teljesíteni❓❗* 
 
 Azonban az igazság az, hogy a  csúcsteljesítmény állapota az Alfa állapothoz köthető. 
 
-Meséltem már Neked a flow-ról?
+*Meséltem már Neked a flow-ról?*
 
-"Egy tevékenységben teljesen elmerülni. Az ego eltűnik. Az idő elrepül. Minden cselekedet, mozdulat és gondolat elkerülhetetlenül következik az előzőből, mint ha jazz-t játszana az ember. Az egész lényed a tevékenység része lesz, és a készségeidből képessé válsz a lehető legtöbbet kihozni." [^3] Ezt mondta egy interjúban a flow élmény felfedezője Csíkszentmihályi Mihály. 
+> "Egy tevékenységben teljesen elmerülni. Az ego eltűnik. Az idő elrepül. Minden cselekedet, mozdulat és gondolat elkerülhetetlenül következik az előzőből, mint ha jazz-t játszana az ember. Az egész lényed a tevékenység része lesz, és a készségeidből képessé válsz a lehető legtöbbet kihozni." [^3] 
 
-És hogy hogyan is kapcsolódik a flow élmény az Alfához?
+A fenti idézet 👆 a flow élmény felfedezőjétől Csíkszentmihályi Mihálytól származik. 
 
-Flow állapotában a normális agyműködésed egészen megváltozik. Ebben az állapotban az ébrenléti tudat gyorsan mozgó béta hullámaitól az alfa és a téta hullámok sokkal lassabb határáig tolódnak. [^4] Tehát az agyhullámaid lelassulnak, mégis ez a lassúság valami egészen elképesztő állapothoz vezet...
+*És hogy hogyan is kapcsolódik a flow élmény az Alfához?*
 
-Azonban a történetünk itt még nem ér véget! Szükségünk van arra, hogy még valamit az Alfához kapcsoljunk. A Nyitottságon és a Tanuláson kívül van még egy fontos kulcsszavunk... 
+Flow állapotában a normális agyműködésed egészen megváltozik. Ebben az állapotban az ébrenléti tudat gyorsan mozgó béta hullámaitól az alfa és a téta hullámok sokkal lassabb határáig tolódnak. [^4] Tehát az agyhullámaid lelassulnak, mégis ez a lassúság ehhez az egészen elképesztő állapothoz vezet...
+
+Azonban a történetünk a flow-val még nem ér véget! Szükségünk van a kirakós még egy darabjára, ahhoz hogy teljes legyen a kép az Alfáról. A Nyitottságon és a Tanuláson kívül van még egy fontos elemünk... 
 
 ## Az Alfa Egyensúly 
 
@@ -85,11 +87,17 @@ Alfában ugyanis nem "csak" a külső világhoz kapcsolódunk, mint jellemzően 
 
 A meditáció gyakorlása során, a fókusz gyakran valami légiesre kerül, mint egy gyertya lángjára vagy éppen a légzésre. Az utóbbi példával élve a meditációnál a légzés nem más, mint kapocs a "kint" és a "bent" között. Egyszerre tartozik a "külső világhoz" és a testedhez. A tied, hiszen benned van és életet ad Neked, mégsem birtoklod. A légzés ugyanaz minden alkalommal, ezért megfelelő arra, hogy a laza fókuszunkat fent tartsuk, mégis egy kicsit mindig más, ezért elég változatos is ahhoz, hogy ne kalandozzunk el túlságosan. A fókuszt a légzésre helyezve a gyakorló képessé válik egyensúlyt teremteni a test és a szellem, a "belső világ" és a matéria között. 👐 
 
-> "A mindfullness meditáció növeli az alfa hullám erősségét egészséges alanyoknál és betegeknél egyaránt."[^6]
+Egy meta analízis során, ami 56 kutatás eredményét vizsgálta egyértelműen megállapították, hogy a "mindfulness" meditáció növeli mind az alfa, mind a téta hullámok erősségét... [^6]
 
-Végezetül tehát az Alfa egy kérdéssel kezdődik. Nyitottságot követel, Tanulás az eredménye és Egyensúlyra törekszik. De talán ezt Te már mind tudod!  
+Összefoglalva tehát az Alfa egy kérdéssel kezdődik. 
 
-*"*Kopp-kopp*"*
+Nyitottságot követel. 
+
+Tanulás az eredménye. 
+
+És Egyensúlyra törekszik.   
+
+"*Kopp-kopp*"
 
 Örülök ha megtisztelsz ebben a közös felfedezésben és az az erős meggyőződésem, hogy ha keresel valamit 🐇 akkor találni is fogsz!
 
