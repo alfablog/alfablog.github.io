@@ -25,13 +25,11 @@ Sajnos nem lehet elmondani valójában mi is az az Alfa, de megpróbálhatom meg
 
 ![Morfeusz](https://alfablog.github.io/assets/img/Morfeusz2.png)
 
-Krisztus előtt körülbelül 800 évvel egy névtelen ember a porba írta a görög abc első betűjét, az alfát...
-
-> "Én vagyok az Alfa és az Omega, az első és az utolsó, a kezdet és vég.” Jel 22,13. 
+Krisztus előtt körülbelül 800 évvel egy névtelen ember először írta a porba a görög abc első betűjét, az alfát...
 
 Talán mondhatnánk úgy is, hogy Alfa az az érzés amikor rájössz, hogy valami nem stimmel. Egy kérdés nem hagy nyugodni. Értelmezni szeretnéd a Téged körülvevő valóság egy darabkáját, de akárhogy is próbálod, nem tudod megragadni a lényegét. A válasz mintha füst lenne, kifolyik a kezeid közül, pedig tudod hogy ott van... Érzed és magyarázatot akarsz rá.
 
-Alfában a tapasztalás egy *kérdéssel* kezdődik, egy kérdéssel amire választ keresel.
+Alfában a tapasztalás gyakran egy *kérdéssel* kezdődik, egy kérdéssel amire választ keresel.
 
 ## Az Alfa Nyitottság
 
@@ -43,7 +41,7 @@ Az agyad elektromos tevékenységek nyüzsgő központja. Ez annak a ténynek is
 
 ![Agyhullámok](https://alfablog.github.io/assets/img/Agyhullámok4.png)
 
-Az agyhullámok a nagyon gyorstól (gamma) a nagyon lassúig (delta) terjednek. Frekvenciában mérjük őket, amelynek ciklus / másodperc, azaz hertz (Hz) a mértékegysége. Az adott hullám frekvenciája alapján következtetni lehet arra, hogy épp milyen az uralkodó tudatállapot. 👇
+Az agyhullámok a nagyon gyorstól (gamma), egészen a nagyon lassúig (delta) terjednek. Frekvenciában mérjük őket, amelynek ciklus / másodperc, azaz hertz (Hz) a mértékegysége. Az adott hullám frekvenciája alapján következtetni lehet arra, hogy épp milyen az uralkodó tudatállapot. 👇
 
 Agyhullám        | Frekvencia             | Tudatállapot          
 --------------------- | --------------------- | --------------------- 
@@ -53,13 +51,13 @@ Alfa (α)           | 8–12 Hz               | Nagy nyugodtság, passzív figye
 Téta (θ)             | 4–8 Hz                | Elképesztő nyugodtság, befelé figyelés
 Delta (δ)             | 0.5–4 Hz              | Egetrengető nyugodtság, Ken Wilber, de közönséges földi halandók is megközelítik mély álomtalan álomban
 
-Az Alfa hullámok a spektrum közepén helyezkednek el a téta és a béta hullámok között. Az agyad akkor generálja ezeket a hullámokat, ha nem koncentrálsz túl erősen semmire. Az Alfa állapotot tehát a nyugalom és a passzív figyelem jellemzi. [^2]
+Az Alfa hullámok a spektrum közepén helyezkednek el a téta és a béta hullámok között. Az agyad akkor generálja ezeket a hullámokat, ha nem koncentrálsz túl erősen semmire. Az Alfa állapotot a nyugalom és a passzív figyelem jellemzi. [^2]
 
 ## Az Alfa Tanulás
 
-Másképpen az Alfa állapotról azt is mondhatnánk, hogy kaput nyit a tanuláshoz. 🤓
+Másképpen azt is mondhatnánk az Alfa állapotról, hogy kaput nyit a tanuláshoz. 🤓
 
-Az Alfa állapotban ugyanis pont elég laza és nyitott fókuszú vagy ahhoz, hogy a történéseket teljes valójukban be tudd fogadni. Alfában nem vagy se nem túl feszült, se nem túl fáradt. Az Alfa állapot éppen optimális ahhoz, hogy elmélyülj.
+Alfa állapotban ugyanis pont elég laza és nyitott fókuszú vagy ahhoz, hogy a történéseket teljes valójukban be tudd fogadni. Alfában nem vagy se nem túl feszült, se nem túl fáradt. Az Alfa állapot éppen optimális ahhoz, hogy elmélyülj.
 
 Az ember, ugyan gondolhatná erre az állapotra azt hogy: 
 
@@ -77,7 +75,7 @@ A fenti idézet 👆 a flow élmény felfedezőjétől Csíkszentmihályi Mihál
 
 Flow állapotában a normális agyműködésed egészen megváltozik. Ebben az állapotban az ébrenléti tudat gyorsan mozgó béta hullámaitól az alfa és a téta hullámok sokkal lassabb határáig tolódnak. [^4] Tehát az agyhullámaid lelassulnak, mégis ez a lassúság ehhez az egészen elképesztő állapothoz vezet...
 
-Azonban a történetünk a flow-val még nem ér véget! Szükségünk van a kirakós még egy darabjára, ahhoz hogy teljes legyen a kép az Alfáról. A Nyitottságon és a Tanuláson kívül van még egy fontos elemünk... 
+Azonban a történetünk a flow-val még nem ér véget! Szükségünk van a kirakós még egy darabkájára, ahhoz hogy egy teljesebb képet kapjunk az Alfáról. A Nyitottságon és a Tanuláson kívül van még egy fontos elemünk... 
 
 ## Az Alfa Egyensúly 
 
@@ -87,15 +85,9 @@ Alfában ugyanis nem "csak" a külső világhoz kapcsolódunk, mint jellemzően 
 
 A meditáció gyakorlása során, a fókusz gyakran valami légiesre kerül, mint egy gyertya lángjára vagy éppen a légzésre. Az utóbbi példával élve a meditációnál a légzés nem más, mint kapocs a "kint" és a "bent" között. Egyszerre tartozik a "külső világhoz" és a testedhez. A tied, hiszen benned van és életet ad Neked, mégsem birtoklod. A légzés ugyanaz minden alkalommal, ezért megfelelő arra, hogy a laza fókuszunkat fent tartsuk, mégis egy kicsit mindig más, ezért elég változatos is ahhoz, hogy ne kalandozzunk el túlságosan. A fókuszt a légzésre helyezve a gyakorló képessé válik egyensúlyt teremteni a test és a szellem, a "belső világ" és a matéria között. 👐 
 
-Egy meta analízis során, ami 56 kutatás eredményét vizsgálta egyértelműen megállapították, hogy a "mindfulness" meditáció növeli mind az alfa, mind a téta hullámok erősségét... [^6]
+> Egy meta analízis során, ami 56 kutatás eredményét vizsgálta egyértelműen megállapították, hogy a "mindfulness" meditáció növeli mind az alfa, mind a téta hullámok erősségét... [^6]
 
-Összefoglalva tehát az Alfa egy kérdéssel kezdődik. 
-
-Nyitottságot követel. 
-
-Tanulás az eredménye. 
-
-És Egyensúlyra törekszik.   
+Összefoglalva tehát az Alfa kezdődhet egy kérdéssel. ❓ Nyitottságot 😳 követel. Tanulás 🤓 az eredménye. És Egyensúlyra törekszik. 👐
 
 "*Kopp-kopp*"
 
