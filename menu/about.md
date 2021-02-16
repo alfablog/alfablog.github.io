@@ -17,7 +17,7 @@ Gondolom most úgy érzed magad, mint a mesében Alice, aki a nyúl üregébe es
 
 Igen, látom a szemedben... 
 
-Hadd mondjam el Neked miért vagy itt. Azért mert van egy kérdésed. Bár talán nincsenek is szavaid rá, de érzed. Valami nem stimmel a világgal, nem tudod pontosan mi az, csak azt hogy van. Mint egy szilánk az agyadban ami megőrjít. Ez az érzés hozott el most Alfába. 
+Hadd mondjam el Neked miért vagy itt. Azért, mert van egy kérdésed. Bár talán nincsenek is szavaid rá, de érzed. Valami nem stimmel a világgal, nem tudod pontosan mi az csak azt, hogy van. Mint egy szilánk az agyadban, ami megőrjít. Ez az érzés hozott el most Alfába. 
 
 ## Akarod Tudni, Hogy Mi Is Az Az Alfa?
 
@@ -27,13 +27,13 @@ Sajnos nem lehet elmondani valójában mi is az az Alfa, de megpróbálhatom meg
 
 Krisztus előtt körülbelül 800 évvel egy névtelen ember először írta a porba a görög abc első betűjét, az alfát...
 
-Talán mondhatnánk úgy is, hogy Alfa az az érzés amikor rájössz, hogy valami nem stimmel. Egy kérdés nem hagy nyugodni. Értelmezni szeretnéd a Téged körülvevő valóság egy darabkáját, de akárhogy is próbálod, nem tudod megragadni a lényegét. A válasz mintha füst lenne, kifolyik a kezeid közül, pedig tudod hogy ott van... Érzed és magyarázatot akarsz rá.
+Talán mondhatnánk úgy is, hogy Alfa az az érzés amikor rájössz, hogy valami nem stimmel. Egy kérdés nem hagy nyugodni. Értelmezni szeretnéd a Téged körülvevő valóság egy darabkáját, de akárhogy is próbálod, nem tudod megragadni a lényegét. A válasz mintha füst lenne kifolyik a kezeid közül, pedig tudod, hogy ott van... Érzed és magyarázatot akarsz rá.
 
 Alfában a tapasztalás gyakran egy *kérdéssel* kezdődik, egy kérdéssel amire választ keresel.
 
 ## Az Alfa Nyitottság
 
-Szükséged van rá, ha már a kérdést feltetted (és a pirulát lenyelted), hogy nyitott légy a válaszra. Mert a válasz korántsem biztos, hogy oda fog vezetni ahova remélted... 😳🍋
+Szükséged van rá, ha már a kérdést feltetted (és a pirulát lenyelted), hogy nyitott légy a válaszra. Mert a válasz korántsem biztos, hogy oda fog vezetni, ahova remélted... 😳🍋
 
 Az Alfa egyike az 5 legismertebb agyhullámnak. 
 
@@ -59,11 +59,11 @@ Másképpen azt is mondhatnánk az Alfa állapotról, hogy kaput nyit a tanulás
 
 Alfa állapotban ugyanis pont elég laza és nyitott fókuszú vagy ahhoz, hogy a történéseket teljes valójukban be tudd fogadni. Alfában nem vagy se nem túl feszült, se nem túl fáradt. Az Alfa állapot éppen optimális ahhoz, hogy elmélyülj.
 
-Az ember, ugyan gondolhatná erre az állapotra azt hogy: 
+Az ember, ugyan gondolhatná erre az állapotra azt, hogy: 
 
 *Egy ilyen "szobahőmérsékletű" állapotban mégis hogyan lehetne eredményesen teljesíteni❓❗* 
 
-Azonban az igazság az, hogy a  csúcsteljesítmény állapota az Alfa állapothoz köthető. 
+Azonban az igazság az, hogy a csúcsteljesítmény állapota az Alfa állapothoz köthető. 
 
 *Meséltem már Neked a flow-ról?*
 
@@ -75,13 +75,13 @@ A fenti idézet 👆 a flow élmény felfedezőjétől Csíkszentmihályi Mihál
 
 Flow állapotában a normális agyműködésed egészen megváltozik. Ebben az állapotban az ébrenléti tudat gyorsan mozgó béta hullámaitól az alfa és a téta hullámok sokkal lassabb határáig tolódnak. [^4] Tehát az agyhullámaid lelassulnak, mégis ez a lassúság ehhez az egészen elképesztő állapothoz vezet...
 
-Azonban a történetünk a flow-val még nem ér véget! Szükségünk van a kirakós még egy darabkájára, ahhoz hogy egy teljesebb képet kapjunk az Alfáról. A Nyitottságon és a Tanuláson kívül van még egy fontos elemünk... 
+Azonban a történetünk a flow-val még nem ér véget! Szükségünk van a kirakós még egy darabkájára ahhoz, hogy egy teljesebb képet kapjunk az Alfáról. A Nyitottságon és a Tanuláson kívül van még egy fontos elemünk... 
 
 ## Az Alfa Egyensúly 
 
 Az Alfa tudatállapot egyfajta hídnak is tekinthető a külső és a belső világ között. [^5] 
 
-Alfában ugyanis nem "csak" a külső világhoz kapcsolódunk, mint jellemzően bétában vagy a "csak" a belső világhoz mint jellemzően tétában, hanem mind a két világhoz. Mintha egy lábbal kint és egy lábbal bent állnál...
+Alfában ugyanis nem "csak" a külső világhoz kapcsolódunk, mint jellemzően bétában vagy a "csak" a belső világhoz, mint jellemzően tétában, hanem mind a két világhoz. Mintha egy lábbal kint és egy lábbal bent állnál...
 
 A meditáció gyakorlása során, a fókusz gyakran valami légiesre kerül, mint egy gyertya lángjára vagy éppen a légzésre. Az utóbbi példával élve a meditációnál a légzés nem más, mint kapocs a "kint" és a "bent" között. Egyszerre tartozik a "külső világhoz" és a testedhez. A tied, hiszen benned van és életet ad Neked, mégsem birtoklod. A légzés ugyanaz minden alkalommal, ezért megfelelő arra, hogy a laza fókuszunkat fent tartsuk, mégis egy kicsit mindig más, ezért elég változatos is ahhoz, hogy ne kalandozzunk el túlságosan. A fókuszt a légzésre helyezve a gyakorló képessé válik egyensúlyt teremteni a test és a szellem, a "belső világ" és a matéria között. 👐 
 
@@ -91,7 +91,7 @@ A meditáció gyakorlása során, a fókusz gyakran valami légiesre kerül, min
 
 "*Kopp-kopp*"
 
-Örülök ha megtisztelsz ebben a közös felfedezésben és az az erős meggyőződésem, hogy ha keresel valamit 🐇 akkor találni is fogsz!
+Örülök, ha megtisztelsz ebben a közös felfedezésben és az az erős meggyőződésem, hogy ha keresel valamit 🐇 akkor találni is fogsz!
 
 ---
 
