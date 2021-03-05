@@ -15,7 +15,7 @@ A szivárvány ezer meg ezer árnyalata között nekem sokszor csak a piros meg 
  
 Arra lettem figyelmes az utóbbi időben, hogy amikor vagyok, akkor ritkán fókuszálok magamra. Inkább másra vagy másokra. Rád, vagy Rozira a konyhában miközben főz vagy a képernyőmön lévő feladatra. És a testem bizony nincs mindig felkészülve, hogy 100%-ot nyújtson. Bizony vannak napok amikor 30-40%-on lobog a láng csak. Csakhogy az egomnak ezt elképesztően nehéz elfogadni, hiszen ha ezt csökevényes lángot komolyan venném, akkor nem nyújthatnék 100%-ot. Márpedig számomra csak az egy és a nulla létezik. Úgyhogy hiába vagyok 30-40%-on akkor is kisajtolom magamból a 100-at. Ennek viszont ára van. Az ár pedig az, hogy a saját életerőmből veszek el. És ez bizony most fáj, fáj és görcs van a testemben és nem tudok mit tenni ellene. Megállni pedig iszonyat nehéz, mert a rutin kiépült, a gépezet beindult és vonat füstölögve robog tudattalanul teljesítve készítője akaratát, akkor is ha ez tönkreteszi a sínpárokat. 
 
-<iframe src="https://giphy.com/embed/ghPfNK0PIAeY0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vintage-train-subway-ghPfNK0PIAeY0">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/ghPfNK0PIAeY0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vintage-train-subway-ghPfNK0PIAeY0">
 
 Ez történik most velem és azt képzelem, hogy a legjobb amit tehetek ha egy elvárás-mentes környezetben megtanulok visszafele járni. Sprintről váltani rohanásra, rohanásról futásra, futásról kocogásra, kocogásról sétára, sétáról lépésre, hogy aztán lépésről lépésre... 
 
