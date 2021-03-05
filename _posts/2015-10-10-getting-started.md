@@ -7,8 +7,6 @@ tags:
 image: egy vagy nulla.jpg
 ---
 
-# EGY vagy NULLA
-
 Tudod, nehéz nekem *mérsékeltnek* lenni. 
 
 A szivárvány ezer meg ezer árnyalata között nekem sokszor csak a piros meg meg a rózsaszín létezik.
