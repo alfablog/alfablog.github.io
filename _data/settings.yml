@@ -8,7 +8,7 @@ google-ID:
 
 menu:
 - {name: 'Alfa?', path: 'menu', url: 'about.html'}
-- {name: 'Írások', path: 'menu', url: 'writing.html'}
+- {name: 'Bejegyzések', path: 'menu', url: 'writing.html'}
 - {name: 'Kapcsolat', path: 'menu', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
