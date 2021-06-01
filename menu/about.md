@@ -22,16 +22,10 @@ title: Üdvözöllek Alfában!
 
 Sajnos nem tudom Neked elmondani pontosan mi is az az Alfa, de megpróbálom körbeírni Neked.
 
-Tudod van úgy, hogy megfognak gondolatok, ötletek, írások, képek, kérdések, random események.
-
-Megfognak és nem hagynak nyugodni. 
-
-És tudod, ha ha hagyom, hogy rajtam keresztül testet öltsenek akkor van, hogy megszűnnek kísérteni.
+Tudod van úgy, hogy megfognak gondolatok, ötletek, írások, képek, kérdések, random események. Megfognak és nem hagynak nyugodni. És tudod, ha ha hagyom, hogy rajtam keresztül testet öltsenek akkor van, hogy megszűnnek kísérteni.
 
 Ezt a célt szolgálja ez a blog. Egy kreatív outlet az *agymenéseimnek*. 
 
-Kérlek semmiképpen se vegyél túl komolyan bármit is amit itt olvasol.
-
-És ne feledd:
+Kérlek semmiképpen se vegyél túl komolyan bármit is amit itt olvasol. És ne feledd:
 
 *"Ha a zöld kapszulát választod - Maradsz Csodaországban és Én megmutatom Neked milyen mély a nyúl ürege."*
