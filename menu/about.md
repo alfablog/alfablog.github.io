@@ -4,17 +4,17 @@ title: Üdvözöllek Alfában!
 ---
 ![Morfeusz](https://alfablog.github.io/assets/img/Morfeusz2.png)
 
-*Végre!
+*Végre!*
 
-*Isten hozott! 
+*Isten hozott!*
 
-*Mint nyilván kitaláltad, ez itt az Alfa.
+*Mint nyilván kitaláltad, ez itt az Alfa.*
 
-*Megtisztelő, hogy itt vagy. 
+*Megtisztelő, hogy itt vagy.*
 
-*Gondolom most úgy érzed magad, mint a mesében Alice, aki a nyúl üregébe esett.
+*Gondolom most úgy érzed magad, mint a mesében Alice, aki a nyúl üregébe esett.*
 
-*Igen, látom a szemedben... 
+*Igen, látom a szemedben...*
 
 *Hadd mondjam el Neked miért vagy itt. Azért, mert van egy kérdésed. Bár talán nincsenek is szavaid rá, de érzed. Valami nem stimmel a világgal, nem tudod pontosan mi az csak azt, hogy van. Mint egy szilánk az agyadban, ami megőrjít. Ez az érzés hozott el most Alfába.* 
 
@@ -34,4 +34,4 @@ Kérlek semmiképpen se vegyél túl komolyan bármit is amit itt olvasol.
 
 És ne feledd:
 
-*"Ha a zöld kapszulát választod - Maradsz Csodaországban és Én megmutatom Neked milyen mély a nyúl ürege."
+*"Ha a zöld kapszulát választod - Maradsz Csodaországban és Én megmutatom Neked milyen mély a nyúl ürege."*
